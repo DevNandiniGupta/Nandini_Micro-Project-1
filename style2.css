@@ -7,6 +7,7 @@
     font-family: 'Inter', sans-serif; 
 
 }
+/*main part CSS */
 
 #main{
     height: 31vw;
@@ -38,7 +39,6 @@
     height: 81px;
     top: 219px;
     left: 136px;
-
 }
 
 #p2{
@@ -94,6 +94,7 @@ left:  300px;
 padding: 30px;
 
 }
+/*bottom part CSS */
 
 #bottom{
     background-color: black;
@@ -134,29 +135,3 @@ padding: 30px;
     padding-top: 40px;
 }
 
-
-/* #bottom{
-    display: flex;
-    flex-direction: row;
-    background-color: black;
-    color: white;
-}
-
-#leftbox{
-    width: 50%; 
-    height: 35vh;
-    padding-left: 5%;
-    padding-top: 80px;
-}
-
-#rightbox{
-    width: 50%; 
-    height: 35vh;
-    padding-right: 5%;
-    text-align: right;
-    padding-top: 80px;
-}
-
-#footer_right li, #footer_left li{
-    padding-bottom: 10px;
-} */
