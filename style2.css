@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif; 
+
+}
+
+#main{
+    height: 31vw;
+    background-color: #FFCD9E;
+    display: flex;
+}
+
+
+#box{
+    padding-left: 156px;
+    position: relative;
+    top: 90px;
+}
+
+#heading{
+  
+  
+    font-weight: bold;
+    width: 562px;
+    top: -15px;
+    /* left: 130px; */
+    font-size: 36px;
+    position: relative;
+
+}
+
+#p1{
+    width: 389px;
+    height: 81px;
+    top: 219px;
+    left: 136px;
+
+}
+
+#p2{
+    height: 40px;
+}
+
+#email{
+
+    height: 48px;
+    width: 196px;
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+    border: 4px; 
+    top: 411px;
+    padding-left: 15px;
+    left: 136px;
+    border-width: 3px;
+    border-style: solid;
+
+   
+
+}
+
+#Registration{
+    background-color: black; 
+    color: white;
+    height: 53px;
+    width: 196px;
+    margin-left: 10px;
+    border-radius: 8px;
+    border-width: 3px;
+    border-style: solid;
+
+}
+
+#extra_info{
+    color: white;
+    /* font-weight: lighter; */
+    position: relative;
+    font-size: small;
+    font-weight: 500px;
+    left: 20px;
+    top: 20px;
+
+}
+#logo{
+
+position: relative;
+height: 500px;
+ top: 37px; 
+left:  300px;
+padding: 30px;
+
+}
+
+#bottom{
+    background-color: black;
+    height: 17vw;
+    display: flex;
+    position: relative;
+    color: white;
+    align-content: space-between;
+}
+
+#footer_left{
+    position: relative;
+    padding-top: 50px;
+    padding-left: 166px;
+   align-content: space-between;
+
+}
+
+#footer_left li{
+    padding-bottom: 10px;
+}
+
+#footer_right{
+    position: relative;
+    left:  850px;
+    padding-top: 50px;
+    text-align: right;
+
+}
+
+#footer_right li{
+    
+    padding-bottom: 10px;
+
+}
+
+#contact_part{
+    padding-top: 40px;
+}
+
+
+/* #bottom{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+}
+
+#leftbox{
+    width: 50%; 
+    height: 35vh;
+    padding-left: 5%;
+    padding-top: 80px;
+}
+
+#rightbox{
+    width: 50%; 
+    height: 35vh;
+    padding-right: 5%;
+    text-align: right;
+    padding-top: 80px;
+}
+
+#footer_right li, #footer_left li{
+    padding-bottom: 10px;
+} */
